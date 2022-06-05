@@ -21,3 +21,7 @@ Transfer the data from the MQ-2 Gas sensor via Arduino to the LabView program vi
 - 1 x 330Ω Resistor
 - 1 x 40 Pin Detachable Female-Male Jumper Cable
 - 1 x 40 Pin Detachable Male-Male Jumper Cable
+
+# Photos
+- A circuit schematic drawn on TinkerCAD
+![CHEESE !] files/Photos/ss3.png
