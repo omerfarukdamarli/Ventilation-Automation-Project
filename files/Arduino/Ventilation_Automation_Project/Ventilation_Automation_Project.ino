@@ -8,8 +8,8 @@ void setup() {
 }
 
 void loop() {
-  deger = analogRead(A0); // Reading the analog data from sensor
-  if (deger > thresholdValue) { // If the value read from sensor bigger than threshold value, buzzer will go on
+  sensorValue = analogRead(A0); // Reading the analog data from sensor
+  if (sensorValue > thresholdValue) { // If the value read from sensor bigger than threshold value, buzzer will go on
     digitalWrite(buzzerPin, HIGH);
     delay(100);
     digitalWrite(buzzerPin, LOW);
