@@ -36,11 +36,11 @@ Transfer the data from the MQ-2 Gas sensor via Arduino to the LabView program vi
 <img src = "files/Photos/ss6.jpg" width = 500 height = 385>
 
 - The LabView program interface when the sensor value lower than threshold value
-<img src = "files/Photos/ss1.png" width = 1100 height = 569>
+<img src = "files/Photos/ss1.png" width = 1100 height = 600>
 
 - The LabView program interface when the sensor value bigger than threshold value
-<img src = "files/Photos/ss2.png" width = 1100 height = 569>
+<img src = "files/Photos/ss2.png" width = 1100 height = 600>
 
 - The warning e-mail
-<img src = "files/Photos/ss7.jpg" width = 500 height = 385>
+<img src = "files/Photos/ss7.jpg" width = 716 height = 977>
 
