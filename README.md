@@ -14,10 +14,10 @@ Transfer the data from the MQ-2 Gas sensor via Arduino to the LabView program vi
 - Measure again and repeat the steps.
 
 # Used materials:
-- Arduino UNO
-- Breadboard
-- MQ-2 Gas Sensor
-- Buzzer
+- 1 x Arduino UNO
+- 1 x Breadboard
+- 1 x MQ-2 Gas Sensor
+- 1 x Buzzer
 - 1 x 330Ω Resistor
-- 40 Pin Detachable Female-Male Jumper Cable
-- 40 Pin Detachable Male-Male Jumper Cable
+- 1 x 40 Pin Detachable Female-Male Jumper Cable
+- 1 x 40 Pin Detachable Male-Male Jumper Cable
