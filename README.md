@@ -24,4 +24,4 @@ Transfer the data from the MQ-2 Gas sensor via Arduino to the LabView program vi
 
 # Photos
 - A circuit schematic drawn on TinkerCAD
-![CHEESE !] files/Photos/ss3.png
+https://github.com/omerfarukdamarli/Ventilation-Automation-Project/blob/main/files/Photos/ss3.png
